@@ -29,8 +29,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order to install Active Directory and Group Policy, you need to be running on a Windows Server OS. I am using Windows 10 Server Azure edition because I am doing this all on an Azure Virtual Machine.
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/2d6672f7-8fc1-4438-ad67-bbce1291973b)
 <br />
 
